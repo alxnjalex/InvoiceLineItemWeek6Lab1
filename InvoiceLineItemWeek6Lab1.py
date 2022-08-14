@@ -36,8 +36,10 @@ if __name__ == "__main__":
         print("TOTAL:    ", f"{total: .2f}")
         answer = input("Enter another line item? (y/n): ")
         print()
+
+    print("Bye!")
         
-        print("Bye!")
+       
 
 
         
